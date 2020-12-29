@@ -2,7 +2,7 @@
 id: lorem-ipsum
 title: Fountain Pen
 description: lorem-ipsum
-price: lorem-ipsum
+price: '9.99'
 order: 0
 section: Store
 featured: false
