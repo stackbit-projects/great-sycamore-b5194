@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: Fountain Pen
-description: lorem-ipsum
+description: Description goes here.
 price: '9.99'
 order: 0
 section: Store
